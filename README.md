@@ -1,2 +1,3 @@
-* Readme
-** Cool ideas:
+# Readme
+## Cool ideas:
+*
