@@ -6,4 +6,9 @@
 |Microphone               |Use my PC microphone for dialog and phone for others|
 |Audacity/Software        |Use my laptop for editing in class and on go        |
 |Self-sourced SFX         |Use aforementioned microphone to record SFX         |
-|Outsourced SFX           |Download SFX files from royalty-free sources        |
+|Revolver SFX             |CC-BY YLE                                           |
+|Desert Footsteps         |CC-BY Diegolar                                      |
+|Desert Atmosphere        |CC-0                                                |
+|Bar Crowd                |CC-0                                                |
+|Pool Balls               |CC-0                                                |
+|Piano Music              |CC-BY Kevin MacLeod (incompetech.com)               |
