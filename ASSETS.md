@@ -13,4 +13,6 @@
 |Pool Balls               |CC-0                                                |
 |Piano Music              |CC-BY Kevin MacLeod (incompetech.com)               |
 |Chair Drag               |CC-BY DWOBoyle                                      |
-|Wood Footsteps           |CC-0                                                |
+|Salloon Doors            |CC-BY-NC FxProSound                                 |
+|Door Slam                |CC-0                                                |
+
