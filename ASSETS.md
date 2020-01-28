@@ -12,3 +12,4 @@
 |Bar Crowd                |CC-0                                                |
 |Pool Balls               |CC-0                                                |
 |Piano Music              |CC-BY Kevin MacLeod (incompetech.com)               |
+|Chair Drag               |CC-BY DWOBoyle                                      |
