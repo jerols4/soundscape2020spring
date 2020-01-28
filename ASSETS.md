@@ -15,4 +15,9 @@
 |Chair Drag               |CC-BY DWOBoyle                                      |
 |Salloon Doors            |CC-BY-NC FxProSound                                 |
 |Door Slam                |CC-0                                                |
-
+|Cowboy Gunshots          |CC-BY fastson                                       |
+|Outlaw Gunshots          |CC-BY-NC Timbre https://freesound.org/people/Timbre/sounds/370308/|
+|Outlaw Laughter          |CC-BY-acekasbo                                      |
+|Body Impact              |CC-0                                                |
+|Sad Music                |CC-BY Kevin MacLeod (incompetech.com)               |
+|Cowboy Scream            |CC-0                                                |
