@@ -21,3 +21,5 @@
 |Body Impact              |CC-0                                                |
 |Sad Music                |CC-BY Kevin MacLeod (incompetech.com)               |
 |Cowboy Scream            |CC-0                                                |
+
+Any non-attributed sounds are done by myself. Link to the creative commons attribution page: https://creativecommons.org/licenses/by/4.0/
