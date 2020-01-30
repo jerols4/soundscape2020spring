@@ -2,7 +2,7 @@
 
 ### Scene 1: The Salloon
 *Piano plays **Breaktime** by Kevin Macleod*  
-*People chattering in background.*
+*People chattering in background.*  
 *Pool balls clack together.*  
 *A few seconds pass with this atmosphere.*  
 *Footsteps gradually approach the listener.*
