@@ -1,6 +1,6 @@
-##Transcript
+## Transcript
 
-###Scene 1: The Salloon
+### Scene 1: The Salloon
 *Piano plays **Breaktime** by Kevin Macleod*  
 *People chattering in background.*
 *Pool balls clack together.*  
@@ -17,7 +17,7 @@
 *The piano player quickly stops, and the crowd hushes.*  
 *There is a moment of silence in the air.*
 
-###Scene 2: The Duel
+### Scene 2: The Duel
 *A chilling desert wind is heard blowing sand in the air.*  
 
 **Cowboy:** *Takes gravelly footsteps to his position.*  
