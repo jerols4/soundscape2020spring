@@ -1,5 +1,5 @@
 ## Transcript
-*Western Music by Ross Bugden plays*
+**Western Music** *by Ross Bugden plays*
 
 **Narrator:** The year is 1875, the midst of the American Frontier. In a small town called Tombstone, Arizona, Sheriff Virgil Earp takes his time of rest in Big Nose Kate's Saloon. After a hard days work, he finally is able to enjoy a sip of beer. Little did he know, it would be his last.
 
