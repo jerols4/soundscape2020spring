@@ -1,4 +1,7 @@
 ## Transcript
+*Western Music by Ross Bugden plays*
+
+**Narrator:** The year is 1875, the midst of the American Frontier. In a small town called Tombstone, Arizona, Sheriff Virgil Earp takes his time of rest in Big Nose Kate's Saloon. After a hard days work, he finally is able to enjoy a sip of beer. Little did he know, it would be his last.
 
 ### Scene 1: The Salloon
 *Piano plays **Breaktime** by Kevin Macleod*  
@@ -7,7 +10,7 @@
 *A few seconds pass with this atmosphere.*  
 *Footsteps gradually approach the listener.*
 
-**Cowboy:** *Pulls up a stool.*  
+**Sheriff:** *Pulls up a stool.*  
   *Sighs.*  
   *Flicks open lighter and exhales cigarette.*  
   *Reloads revolver, one bullet at a time, and flicks the chamber closed.*  
@@ -17,18 +20,20 @@
 *The piano player quickly stops, and the crowd hushes.*  
 *There is a moment of silence in the air.*
 
+**Outlaw:** Where the hell is Sheriff Earp?!
+
 ### Scene 2: The Duel
 *A chilling desert wind is heard blowing sand in the air.*  
 
-**Cowboy:** *Takes gravelly footsteps to his position.*  
+**Sheriff:** *Takes gravelly footsteps to his position.*  
 *Takes a final, long pull of his cigarette before flicking it to the dirt.*  
 *Takes exactly ten steps.*
 
 *Rapid gunshots are heard. Three in the foreground, two in the background.*
 
-**Cowboy:** *Screams out in pain and collapses into the dirt.*
+**Sheriff:** *Screams out in pain and collapses into the dirt.*
 
-*By Kevin Macleod fades in.*
+**Cold Sober** *By Kevin Macleod fades in.*
 
 **Outlaw:** *Laughs maniacally.*
 
